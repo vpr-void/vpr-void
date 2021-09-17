@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Thuta Ye Ag</h1>
 <h3 align="center">A Creative Web-Designer/Developer from Myanmar</h3> 
 <br/>
-<br/>
+
 - - I’m currently learning **Web Development and Graphic Design.**
 
 - - First Year CS Student.
