@@ -10,7 +10,6 @@
 
 - Here's my portfolio - [ComingSoonXD](ComingSoonXD)
 
-- ⚡ Fun fact | **I'm lazy XD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
