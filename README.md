@@ -2,7 +2,7 @@
 <h3 align="center">A Creative Web-Designer/Developer from Myanmar</h3> 
 <br/>
 
-- - I’m currently learning **Web Development and Graphic Design.**
+- - I’m currently learning **Web Development.**
 
 - - First Year CS Student.
 
