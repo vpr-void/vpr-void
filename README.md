@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Thuta Ye Ag</h1>
+<h1 align="center">Hello , It's Thuta </h1>
 <h3 align="center">A Creative Web-Designer/Developer from Myanmar</h3> 
 <br/>
 
