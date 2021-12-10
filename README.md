@@ -11,5 +11,5 @@
   Frameworks/Libraries: Django, jQuery, Bootstrap
   ```
    ```
-  Skills: Git, SASS, Heroku, 
+  Tools: Git, SASS, Heroku, 
   ```
