@@ -1,4 +1,4 @@
-## Yoo! Its Thuta.
+# Yoo! Its Thuta.
 
   First year student at __University of Computer Studies, Yangon__ and studying __Web-Development__ myself.
   
