@@ -1,16 +1,24 @@
-## : : : New things aren't that scary :
+## : : : Thuta Ye Ag  :
 
-  ### VaporVoid or 
-  First year student at __University of Computer Studies, Yangon__ and currently self-studying __Web-Development__.
+  * First year student at __University of Computer Studies, Yangon__ 
   
+  * learning __Computer Science__ and __Web-Development__.
+  
+  * loves music and logical stuffs
+ 
   
   ```
-  Languages: Python, JavaScript
+  Programming Languages : 
+  - Python - JavaScript 
   ```
 
+
   ```
-  Frameworks/Libraries: Django, Flask, jQuery, Bootstrap
+  Frameworks/Libraries : 
+  - Django - Flask - jQuery - Bootstrap
   ```
-   ```
-  Tools: Git, SASS, Heroku, 
+  
+  ```
+  Tools : 
+  - Git - SASS - Heroku
   ```
