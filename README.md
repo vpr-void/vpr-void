@@ -1,10 +1,10 @@
 ## : : : Thuta Ye Ag  :
 
-  * First year student at __University of Computer Studies, Yangon__ 
+  * First year student at __University of Computer Studies, Yangon__ .
   
-  * learning __Computer Science__ and __Web-Development__.
+  * learning __Computer Science__ and __Web-Development__ .
   
-  * loves music and logical stuffs
+  * loves music and logical stuff .
  
   
   ```
