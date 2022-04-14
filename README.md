@@ -8,7 +8,7 @@
   ```
 
   ```
-  Frameworks/Libraries: Django, jQuery, Bootstrap
+  Frameworks/Libraries: Django, Flask, jQuery, Bootstrap
   ```
    ```
   Tools: Git, SASS, Heroku, 
