@@ -1,4 +1,4 @@
-# Yoo! Its Thuta.
+# New things isn't that scary.
 
   First year student at __University of Computer Studies, Yangon__ and currently self-studying __Web-Development__.
   
