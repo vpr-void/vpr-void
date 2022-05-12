@@ -18,10 +18,10 @@
 
   ```
   Frameworks/Libraries : 
-  - Django - Flask - jQuery - Bootstrap
+  - Django - Flask - jQuery
   ```
   
   ```
   Tools : 
-  - Git - SASS - Heroku
+  - Git - Heroku
   ```
