@@ -23,5 +23,5 @@
   
   ```
   Tools : 
-  - Git - Heroku
+  - Git
   ```
