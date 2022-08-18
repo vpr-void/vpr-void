@@ -18,7 +18,7 @@
 
   ```
   Frameworks/Libraries : 
-  - Django - Flask - jQuery
+  - Django - Vue
   ```
   
   ```
