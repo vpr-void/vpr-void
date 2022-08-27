@@ -1,4 +1,4 @@
-## :  :  :  Thuta Ye Ag   :<br>
+## :  :  :  Thuta Ye Ag   <br>
 
 
   * First year student at __University of Computer Studies, Yangon__ .
