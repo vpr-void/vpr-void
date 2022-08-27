@@ -5,7 +5,7 @@
   
   * learning __Computer Science__ and __Web-Development__ .
   
-  * loves music and logical stuff .
+  * also loves music and design stuff .
       
  
   <br>
