@@ -18,10 +18,10 @@
 
   ```
   Frameworks/Libraries : 
-  - Django - Vue
+  - Django - Vue - Tailwind - SASS
   ```
   
   ```
   Tools : 
-  - Git
+  - Git, Firebase, Heroku
   ```
