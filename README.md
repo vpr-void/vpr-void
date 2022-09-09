@@ -8,22 +8,22 @@
   * also loves music and design stuff .
       
  
-  <br>
+  
+  
+  ```javascript
+  skills : {
+  
+    languages : [ "Python", "JavaScript" ],
+    
+    frameworks : [ "Django", "Django-Rest-Framework", "Vue", "Tailwind", "SASS" ],
+    
+    tools : [ "Git", "Firebase", "npm", "Heroku" ],
+    
+    software : [ "Figma" ]
+    
+   }
   
   ```
-  Programming Languages : 
-  - Python - JavaScript 
-  ```
-
-
-  ```
-  Frameworks/Libraries : 
-  - Django - Vue - Tailwind - SASS
-  ```
   
-  ```
-  Tools : 
-  - Git, Firebase, Heroku
-  ```
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ThutaYeAg)](https://github.com/LordDashMe/github-contribution-stats/)
