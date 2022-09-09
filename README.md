@@ -13,13 +13,13 @@
   ```javascript
   skills : {
   
-    languages : [ "Python", "JavaScript" ],
+    languages  : [ "Python", "JavaScript" ],
     
     frameworks : [ "Django", "Django-Rest-Framework", "Vue", "Tailwind", "SASS" ],
     
-    tools : [ "Git", "Firebase", "npm", "Heroku" ],
+    tools      : [ "Git", "Firebase", "npm", "Heroku" ],
     
-    software : [ "Figma" ]
+    software   : [ "Figma" ]
     
    }
   
