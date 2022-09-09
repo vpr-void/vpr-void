@@ -19,7 +19,7 @@
     
     tools      : [ "Git", "Firebase", "npm", "Heroku" ],
     
-    software   : [ "Figma" ]
+    softwares  : [ "Figma" ]
     
    }
   
