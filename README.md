@@ -3,7 +3,7 @@
 
   * First year student at __University of Computer Studies, Yangon__ .
   
-  * learning __Computer Science__ and __Web-Development__ .
+  * learning __UI/UX__ and __Web-Development__ .
   
   * also loves music and design stuff .
       
