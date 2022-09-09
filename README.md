@@ -26,4 +26,4 @@
   - Git, Firebase, Heroku
   ```
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ThutaYeAg)](https://github.com/LordDashMe/github-contribution-stats/)
