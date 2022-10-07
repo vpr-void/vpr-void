@@ -15,7 +15,9 @@
   
     languages  : [ "Python", "JavaScript" ],
     
-    frameworks : [ "Django", "Django-Rest-Framework", "Vue", "Tailwind", "SASS" ],
+    frameworks : [ "Django", "Django-Rest-Framework", "Vue", "Tailwind", "SASS", "Express", "Node.js" ],
+    
+    databases : [ "PostgreSQL", "SQLite", "MongoDB", "Firestore"],
     
     tools      : [ "Git", "Firebase", "npm", "Heroku" ],
     
