@@ -1,9 +1,6 @@
 ## :  :  :  Thuta Ye Ag   <br>
-
-
-  * First year student at __University of Computer Studies, Yangon__ .
   
-  * learning __UI/UX__ and __Web-Development__ .
+  * learning __UI/UX__ and __Cross Platform Development__ .
   
   * also loves music and design stuff .
       
