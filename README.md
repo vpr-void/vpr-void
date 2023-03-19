@@ -1,6 +1,6 @@
 ## :  :  :  Thuta Ye Ag   <br>
   
-  * learning __UI/UX__ and __Cross Platform Development__ .
+  * learning __UI/UX__ and __Mobile Development with Flutter__ .
   
   * also loves music and design stuff .
       
@@ -10,7 +10,7 @@
   ```javascript
   skills : {
   
-    languages  : [ "Python", "JavaScript" ],
+    languages  : [ "Python", "JavaScript", "Dart" ],
     
     frameworks : [ "Django", "Django-Rest-Framework", "Vue", "Tailwind", "SASS", "Express", "Node.js" ],
     
