@@ -16,7 +16,7 @@
     
     databases  : [ "PostgreSQL", "SQLite", "MongoDB", "Firestore"],
     
-    tools      : [ "Git", "Firebase", "npm", "Heroku" ],
+    tools      : [ "Git", "Firebase", "Heroku" ],
     
     softwares  : [ "Figma" ]
     
