@@ -12,7 +12,7 @@
   
     languages  : [ "Python", "JavaScript", "Dart" ],
     
-    frameworks : [ "Django", "Django-Rest-Framework", "Vue", "Tailwind", "SASS", "Express", "Node.js" ],
+    frameworks : [ "Flutter", "Django", "Django-Rest-Framework", "Vue", "Tailwind", "SASS", "Express", "Node.js" ],
     
     databases  : [ "PostgreSQL", "SQLite", "MongoDB", "Firestore"],
     
