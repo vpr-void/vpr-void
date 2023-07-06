@@ -2,7 +2,7 @@
   
   * learning __UI/UX__ and __Mobile Development with Flutter__ .
   
-  * also loves music and design stuff .
+  * into all sort of creative stuff .
       
  
   
