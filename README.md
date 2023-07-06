@@ -3,6 +3,10 @@
   _ __Software Developer__ . __UI/UX Designer__
   
   _ into all kinds of __creative__ stuff 
+
+  _ ttutayeag82@gmai.com
+  
+  _ +959787955651
       
  ### what i use.  
   [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vue,python,django,js)](https://skillicons.dev)
