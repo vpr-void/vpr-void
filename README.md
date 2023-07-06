@@ -1,6 +1,6 @@
 # V A P O R . V O I D   <br>
   
-  _ __Software Developer__ / __UI/UX Designer__
+  _ __Software Developer__ . __UI/UX Designer__
   
   _ into all kinds of __creative__ stuff 
       
