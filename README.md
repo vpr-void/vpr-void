@@ -1,29 +1,13 @@
-## Vapor.void   <br>
+# vapor.void   <br>
   
-  * learning __UI/UX__ and __Mobile Development with Flutter__ .
+  _ __Software Developer__ / __UI/UX Designer__
   
-  * into all sort of creative stuff .
+  _ into all kinds of __creative__ stuff 
       
- 
+ ### what i use.  
+  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vue,python,django,js)](https://skillicons.dev)
   
-  
-  ```javascript
-  skills : {
-  
-    languages  : [ "Python", "JavaScript", "Dart" ],
-    
-    frameworks : [ "Flutter", "Django", "Vue", "Tailwind", "SASS", "Express", "Node.js" ],
-    
-    databases  : [ "PostgreSQL", "SQLite", "MongoDB", "Firestore"],
-    
-    tools      : [ "Git", "Firebase", "Heroku" ],
-    
-    softwares  : [ "Figma" ]
-    
-   }
-  
-  ```
-  
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vpr-void&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vpr-void&theme=tokyonight) 
