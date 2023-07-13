@@ -12,8 +12,7 @@
   [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vue,python,django,js)](https://skillicons.dev)
 
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gygxqckaqhc4oy3fl2sot6lyzq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31gygxqckaqhc4oy3fl2sot6lyzq&redirect=true)
-
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gygxqckaqhc4oy3fl2sot6lyzq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31gygxqckaqhc4oy3fl2sot6lyzq&redirect=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vpr-void&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vpr-void&theme=github_dark) 
