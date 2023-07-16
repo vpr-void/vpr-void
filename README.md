@@ -5,8 +5,6 @@
   _ into all kinds of __creative__ stuff 
 
   _ ttutayeag82@gmai.com
-  
-  _ +959787955651
 
   
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gygxqckaqhc4oy3fl2sot6lyzq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gygxqckaqhc4oy3fl2sot6lyzq&redirect=true)
