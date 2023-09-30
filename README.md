@@ -7,7 +7,7 @@
   _ ttutayeag82@gmail.com
 
 
- ### I spend my time with.  
+ ### usually spend time with
   [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vue,python,js,django,ableton)](https://skillicons.dev)
 
 
