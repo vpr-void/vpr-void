@@ -7,8 +7,8 @@
   _ ttutayeag82@gmail.com
 
 
- ### what i use.  
-  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vue,python,django,js)](https://skillicons.dev)
+ ### I spend my time with.  
+  [![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,vue,python,js,django,ableton)](https://skillicons.dev)
 
 
 
