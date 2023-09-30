@@ -4,7 +4,7 @@
   
   _ into all kinds of __creative__ stuff 
 
-  _ ttutayeag82@gmai.com
+  _ ttutayeag82@gmail.com
 
 
  ### what i use.  
